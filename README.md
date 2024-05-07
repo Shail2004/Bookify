@@ -56,4 +56,4 @@ The project structure is organized as follows:
 
 ## Contact
 
-For any inquiries or feedback, please contact [Shail Jain](shailjain2709@gmail.com).
+For any inquiries or feedback, please contact [Shail2004].
